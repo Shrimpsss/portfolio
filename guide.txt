@@ -1,0 +1,7 @@
+1. Extract the zip file to your directory
+
+
+2. Put the file  in your server directory, you can use Laragon or XAMP. 
+
+
+3. Run your server in your browser and open the index.html
